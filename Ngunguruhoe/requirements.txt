@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+aiosqlite
+alpaca-trade-api
+pytest
+pytest-asyncio
+pytest-mock
